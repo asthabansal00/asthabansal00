@@ -93,7 +93,6 @@ A Computer Science Engineering graduate with hands-on experience in **backend de
 
 ## 📫 Connect With Me
 
-* 📧 Email: **[asthabansal686@gmail.com](mailto:asthabansal686@gmail.com)**
 * 💼 LinkedIn: [linkedin.com/in/astha-bansal-3a3297264](http://www.linkedin.com/in/astha-bansal-3a3297264)
 
 ---
